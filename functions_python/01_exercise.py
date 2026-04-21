@@ -9,6 +9,7 @@ Create four separate functions for basic mathematical operations:
 - `divide(num1, num2)` → returns the division  
 """
 
-def add(int | float num1, int | float num2): -> int | float:
+def add(num1: int | float , num2: int | float) -> int | float:
     """Returns the sum of num1 and num2."""
     return num1 + num2
+
