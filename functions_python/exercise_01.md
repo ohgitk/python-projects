@@ -1,5 +1,8 @@
 # Exercises 01 - Function
 
+## Install UV to manage dependences.
+https://docs.astral.sh/uv/#highlights
+
 ## 1. Basic Calculator
 
 Create four separate functions for basic mathematical operations:
